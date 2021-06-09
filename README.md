@@ -1,2 +1,2 @@
 # Hacking
-Some of the stuff i have done in hacking.
+Some writeups I have done in online hacking platforms
